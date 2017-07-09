@@ -18,3 +18,5 @@ public class Main {
 }
 
 /// the next subject is composition. this is something that can be used with or in place of inheritance.
+
+// in s8 we look at the remaining three parts of OOP: compositoin, polymorphism, and encapsulation
